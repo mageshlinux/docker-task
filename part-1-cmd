@@ -1,0 +1,1 @@
+sudo docker run -dit -v /home/ubuntu/inputdata:/csvserver/inputdata -p 9300:9300 infracloudio/csvserver
